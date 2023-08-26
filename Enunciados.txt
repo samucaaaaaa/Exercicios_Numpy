@@ -1,0 +1,4 @@
+Link dos enunciados com as respostas:
+
+https://github.com/qodatecnologia/exercicios-numpy/blob/master/exercicios_numpy.ipynb
+
